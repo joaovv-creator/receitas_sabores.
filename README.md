@@ -12,12 +12,4 @@ Um repositório para armazenar, organizar e compartilhar receitas culinárias de
 
 ## Tecnologias Utilizadas
 
-- Linguagem de Programação: (ex: JavaScript, Python, Ruby...)  
-- Banco de Dados: (ex: SQLite, MongoDB, PostgreSQL...)  
-- Frameworks/Bibliotecas: (ex: React, Vue, Django, Flask...)
-
-## Como Usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/livro-de-receitas.git
+- JavaScript
